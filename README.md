@@ -1,6 +1,6 @@
-# Omarchy IBM Theme
+# Omarchy IBM Colorscheme
 
-A professional, high-contrast dark theme for **Omarchy Linux**, inspired by the classic IBM design language and optimized for the **Hyprland** compositor.
+A professional, high-contrast dark colorscheme for **Omarchy Linux**, inspired by the classic IBM design language and optimized for the **Hyprland** compositor.
 
 ---
 
