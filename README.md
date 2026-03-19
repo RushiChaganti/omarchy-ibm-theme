@@ -6,9 +6,14 @@ A professional, high-contrast dark colorscheme for **Omarchy Linux**, inspired b
 
 ## ✨ Preview
 ![Preview](preview.png)
+## 🖥️ Optional: ThinkPad ASCII Logo (Fastfetch)
 
-btw if you need ThinkPad ASCII logo, here it is:
-1. fastfatch (horizontal) logo:
+If you want your terminal to display a ThinkPad-style ASCII logo using `fastfetch`, you can use the following:
+
+### 1. Horizontal logo (Fastfetch)
+Save this to:
+`~/.config/omarchy/branding/about.txt`
+
 ```bash
 
 ████████████████
